@@ -1,3 +1,3 @@
 # SearchContent
-Приложение для поиска фильмов и сериалов на сайте http://www.omdbapi.com/ .
-Поддерживает дисковое кеширование введенных запросов.
+Application for searching movies and TV series on the site http://www.omdbapi.com/.
+Supports disk caching of entered queries.
